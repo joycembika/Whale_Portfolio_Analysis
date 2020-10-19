@@ -1,4 +1,4 @@
-# Whale Portfolia Analysis
+# Whale Portfolio Analysis
 
 ## Background
 
